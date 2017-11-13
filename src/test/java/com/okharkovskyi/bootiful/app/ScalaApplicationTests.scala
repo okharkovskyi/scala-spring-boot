@@ -1,4 +1,4 @@
-package com.okharkovskyi.bootiful.MyApp
+package com.okharkovskyi.bootiful.app
 
 import org.junit.Test
 import org.junit.runner.RunWith
