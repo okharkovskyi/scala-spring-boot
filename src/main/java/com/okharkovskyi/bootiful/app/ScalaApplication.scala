@@ -11,7 +11,7 @@ object ScalaApplication extends App {
 }
 
 @SpringBootApplication
-@Import(classOf[JacksonConfig])
+@Import(Array(classOf[JacksonConfig]))
 class SpringConfig {
 
 }
