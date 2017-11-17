@@ -91,7 +91,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>org.scalatest.springboot</groupId>
+            <artifactId>scalatest-springboot</artifactId>
+            <version>1.0</version>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
 
 	<build>
 		<plugins>
